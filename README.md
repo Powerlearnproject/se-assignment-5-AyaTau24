@@ -24,19 +24,19 @@ The command Palette in VS Code is a central hub for accessing various commands, 
 Extensions play a vital role in VS Code. enhancing its functionality and adapting it to various programing languages, development environments , and workflows. Users can find extensions by opening the extensions panel by clicking the extensions icon in the Activity Bar or installing extensions.These extensions enhance VS code's functionality, making it a more comprehensive tool for web development.
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
-
+To open the integrated terminal in VS Code press Ctrl+(windows/linux) , you an also use the Command Palette.The advantages of using the integrated terminal you can stay within VS Code without switching to an external terminal.You also have seamless integration, better performance so the integrated terminal is optimized for performance and responds faster than external terminal.It is also easy to navigate and customize the terminal's appearance, behavior, and settings to suit your preferences.Using the integrated terminal in VS Code provides a more streamlined  and efficient developmented experience compared to using an external terminal.
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
-
+To create files and folders you open the exploxer panel by clicking the explorer icon in the activity bar. Right-click in the explorer panel and select 'new file'or 'new folder' to create a new file or folder.Doubl-click a file or folder in the explorer panel to open it.For manging files or folders you can use the explorer panel to ename, delete, or move files and folders. You can also use the explorer panel to browse or nagivate through your files and folders.You can aslo use shortcuts using the keyboard .By using these methods you can create efficiently create, open,and manage files and folders in VS Code and navigate through your projectvwith ease.
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
-
+     You can customize setting in VS Code through setting editor ( ctrl+, or Cmd+,) .Change theme ("theme:"new-theme-name"), change the font size ( "editor.fontSize':) and change keybindings("ctrl=shift f"). Users can search , modify and add settings to traior VS Code to their preferences.
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
-
+These are the steps to set up and start debuddging a simple program in VS Code.Start by creating a launc configuration,open the file containing the code you want to debug , press F5 or click the 'start debugging' button in the run panel. use the the debudding controls(eg. 'step over, 'step into', step out') to navigate through your code..Use the 'call stack' panel to view the current call stack and you can use   the 'breakpoints' panel to mange breakpoints.
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
-
+Install the Git extension in VS Code, initialize a repository with Git, add files with Git add, make a commit with Git commit, link to Github with Gt remote add push changes with Git push.VS Code built-in Git integration allows users to initialize a repository, stage and commit changes, link to Github and push changes.This integration provides a convenient way to manage version control and collaborate on projects.
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
